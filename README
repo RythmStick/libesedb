@@ -26,3 +26,6 @@ Exporting table 2 (MSysObjectsShadow) out of 14.
 Exporting table 3 (MSysObjids) out of 14.
 Exporting table 4 (MSysLocales) out of 14.
 Exporting table 5 (datatable) out of 14.
+
+
+dsgroups.py datatable.4 linktable.5 --name "Domain Admins"
