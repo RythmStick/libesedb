@@ -6,8 +6,7 @@ Changes:
 
 
 
-
-# git clone 
+# git clone https://github.com/RythmStick/libesedb.git
 # cd libesedb 
 # ./synclibs.sh
 # apt install autoconf automake autopoint libtool pkg-config
