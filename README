@@ -1,4 +1,12 @@
 
+Changes:
+
+#define LIBESEDB_MAXIMUM_CACHE_ENTRIES_TABLE_VALUES			( 128 * 1024 ) - 3
+#define LIBESEDB_MAXIMUM_NUMBER_OF_LEAF_PAGES				64 * 1024
+
+
+
+
 # git clone 
 # cd libesedb 
 # ./synclibs.sh
